@@ -2,7 +2,7 @@
     var MAX_HEIGHT = 4;
 
     var specialBtn = document.createElement('span');
-    specialBtn.className = 'bn-submit bn-flat';
+    specialBtn.className = 'bn-submit bn-flat btn-vertical';
     var input = document.createElement('input');
     input.type = 'submit';
     input.value = '竖着';
