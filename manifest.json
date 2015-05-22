@@ -10,8 +10,5 @@
         "css": ["add_button.css"],
         "run_at": "document_end"
     }
-  ],
-  "permissions": [
-    "notifications"
   ]
 }
